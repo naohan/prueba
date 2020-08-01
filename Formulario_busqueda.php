@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Documento sin título</title>
+<title>pagina_busquedao</title>
 </head>
 	<form action="pagina_busqueda.php" method="get">
     <label>Buscar : <input type="text" name="buscar"></label>
